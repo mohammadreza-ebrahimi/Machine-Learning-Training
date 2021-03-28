@@ -14,7 +14,8 @@ Where those are subset of supervised learning.
 - Project 1: [Predict House Price in California](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/House-Regression)
 - Project 2: [Classify Digit Number](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/Digit-Classifier)  
 
-#### Project 1
+#### Project 1  
+
 
 In this project I used data from USA statistics dataset in order to analysis house data in california and build a model to predict the house value. Following steps 
 is needed  
