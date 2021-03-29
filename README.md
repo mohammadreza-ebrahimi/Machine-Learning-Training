@@ -45,6 +45,6 @@ After above steps, I proceed in multi class model training with following steps
 - Evaluating **Percision** and **Recall**
 - Visualizing **Confusion Matrix** in order to analysis errors
 
-
+Some important concepts and definitions have been gotten from this [book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) written by ***Aurélien Géron***
 If you have any question or suggestion please [contact](mailto:m.reza.ebrahimi1995@gmial.com) me. 
 I will be happy.
