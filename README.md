@@ -26,8 +26,9 @@ is needed
 - Chooing the best model which is fitted to training data
 - Evaluate cost function for each selected model
 
-#### Project 2
-![classification-algorithm-in-machine-learning](classification-algorithm-in-machine-learning.png)
+#### Project 2  
+![classification-algorithm-in-machine-learning](classification-algorithm-in-machine-learning.png)  
+
 In project 2 I used data from MNIST dataset, a set of data included handwriting digit numbers. The aim pf this project is to predict which sets of array is related to which class. Following steps explained  
 
 - Loading data from MNIST
