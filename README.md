@@ -6,7 +6,7 @@ Email: [m.reza.ebrahimi1995@gmial.com](mailto:m.reza.ebrahimi1995@gmial.com)
 I have created a portfolio for training machine learning. 
 
 By study this repository you will be laern how to develope a two main model training in machine learning which are   
-- Regression
+- Regression  
 - Classification
 
 Where those are subset of supervised learning.  
@@ -15,7 +15,7 @@ Where those are subset of supervised learning.
 - Project 2: [Classify Digit Number](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/Digit-Classifier)  
 
 #### Project 1  
-
+![hr-versus-runs-regression-1](hr-versus-runs-regression-1.png)
 
 In this project I used data from USA statistics dataset in order to analysis house data in california and build a model to predict the house value. Following steps 
 is needed  
@@ -27,7 +27,7 @@ is needed
 - Evaluate cost function for each selected model
 
 #### Project 2
-
+![classification-algorithm-in-machine-learning](classification-algorithm-in-machine-learning.png)
 In project 2 I used data from MNIST dataset, a set of data included handwriting digit numbers. The aim pf this project is to predict which sets of array is related to which class. Following steps explained  
 
 - Loading data from MNIST
