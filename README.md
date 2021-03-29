@@ -15,7 +15,7 @@ Where those are subset of supervised learning.
 - Project 2: [Classify Digit Number](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/Digit-Classifier)  
 
 #### Project 1  
-![hr-versus-runs-regression-1](hr-versus-runs-regression-1.png)
+![hr-versus-runs-regression](hr-versus-runs-regression.png)
 
 In this project I used data from USA statistics dataset in order to analysis house data in california and build a model to predict the house value. Following steps 
 is needed  
