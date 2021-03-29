@@ -1,3 +1,6 @@
+# Author: Mohammadreza Ebrahimi
+# Email: m.reza.ebrahimi1995@gmail.com
+
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import StratifiedShuffleSplit
