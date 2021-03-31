@@ -11,8 +11,9 @@ By study this repository you will be laern how to develope a two main model trai
 
 Where those are subset of supervised learning.  
 
-- Project 1: [Predict House Price in California](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/House-Regression)
-- Project 2: [Classify Digit Number](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/Digit-Classifier)  
+- Project 1: [Predict House Prices in California](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/House-Regression)
+- Project 2: [Classify Digit Numbers](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/Digit-Classifier)  
+- Project 3: [Classify Mobile Prices](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/mobile)
 
 #### Project 1  
 ![hr-versus-runs-regression](hr-versus-runs-regression.png)
@@ -27,6 +28,7 @@ is needed
 - Evaluate cost function for each selected model
 
 #### Project 2  
+#### Project 3
 ![classification-algorithm-in-machine-learning](classification-algorithm-in-machine-learning.png)  
 
 In project 2 I used data from MNIST dataset, a set of data included handwriting digit numbers. The aim pf this project is to predict which sets of array is related to which class. Following steps explained  
@@ -35,15 +37,15 @@ In project 2 I used data from MNIST dataset, a set of data included handwriting 
 - Getting some information about data
 - Visualizing some of them as instance
 - Splitting train set and test set
-- Fixing target, divide traget column to two classes of `True` and `False` or `Yes` and `No`.
+- Fixing target, divide traget column to two classes of `True` and `False` or `Yes` and `No` or even `1` and `0`. 
 - Training data with **SGD Classifier**
-- Evaluating **Percision** and **Recall** for this model.
+- Evaluating **Percision** and **Recall** and **F1** for this model.
 
 After above steps, I proceed in multi class model training with following steps  
 - This time, It is not required to fix the tearget due to multi class model training
 - Choosing appropriate model, again SGD classifier, by default it is **OvA**. I also examined **OvO** method.
 - Test some other models
-- Evaluating **Percision** and **Recall**
+- Evaluating **Percision**, **Recall** and **F1**. 
 - Visualizing **Confusion Matrix** in order to analysis errors
 
 Some important concepts and definitions have been gotten from this [book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) written by ***Aurélien Géron***  
