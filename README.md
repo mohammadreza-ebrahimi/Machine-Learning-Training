@@ -1,7 +1,8 @@
 # Machine-Learning-Training
 
 Author: Mohammadreza Ebrahimi  
-Email: [m.reza.ebrahimi1995@gmial.com](mailto:m.reza.ebrahimi1995@gmial.com)
+Email: [m.reza.ebrahimi1995@gmial.com](mailto:m.reza.ebrahimi1995@gmial.com)  
+***
 
 I have created a portfolio for training machine learning. 
 
@@ -10,15 +11,18 @@ By study this repository you will be laern how to develope a two main model trai
 - Classification
 
 Where those are subset of supervised learning.  
+***
 
 - Project 1: [Predict House Prices in California](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/House-Regression)
-- Project 2: [Classify Digit Numbers](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/Digit-Classifier)  
-- Project 3: [Classify Mobile Prices](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/mobile)
+- Project 2: [Predict Gross Domestic Product (GDP) of a country](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/world-happiness)
+- Project 3: [Classify Digit Numbers](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/Digit-Classifier)  
+- Project 4: [Classify Mobile Prices](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/mobile)
 
 #### Project 1  
+#### Project 2
 ![hr-versus-runs-regression](hr-versus-runs-regression.png)
 
-In this project I used data from USA statistics dataset in order to analysis house data in california and build a model to predict the house value. Following steps 
+In project 1, I used data from USA statistics dataset in order to analysis house data in california and build a model to predict the house value. Following steps 
 is needed  
 
 - Getting some primary information about data
@@ -27,11 +31,11 @@ is needed
 - Chooing the best model which is fitted to training data
 - Evaluate cost function for each selected model
 
-#### Project 2  
-#### Project 3
+#### Project 3  
+#### Project 4
 ![classification-algorithm-in-machine-learning](classification-algorithm-in-machine-learning.png)  
 
-In project 2 I used data from MNIST dataset, a set of data included handwriting digit numbers. The aim pf this project is to predict which sets of array is related to which class. Following steps explained  
+In project 3 I used data from MNIST dataset, a set of data included handwriting digit numbers. The aim pf this project is to predict which sets of array is related to which class. Following steps explained  
 
 - Loading data from MNIST
 - Getting some information about data
