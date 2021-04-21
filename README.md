@@ -17,13 +17,14 @@ Where those are subset of supervised learning.
 - Project 2: [Predict Gross Domestic Product (GDP) of a country](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/world-happiness)
 - Project 3: [Classify Digit Numbers](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/Digit-Classifier)  
 - Project 4: [Classify Mobile Prices](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/mobile)
+- Project 5: [Classify Sky Objects](https://github.com/mohammadreza-ebrahimi/Machine-Learning-Training/tree/main/sky)
 
 #### Project 1  
 #### Project 2
 ![hr-versus-runs-regression](hr-versus-runs-regression.png)
 
 In project 1, I used data from USA statistics dataset in order to analysis house data in california and build a model to predict the house value. Following steps 
-is needed  
+is needed. Also in project 2 (supervised, regression, similar to the proj. 1) I have used GDP data for all over the world tho predict the GDP per capita of each country.  
 
 - Getting some primary information about data
 - Visualiaing data and see the correlation between features
@@ -33,9 +34,11 @@ is needed
 
 #### Project 3  
 #### Project 4
+#### Project 5
 ![classification-algorithm-in-machine-learning](classification-algorithm-in-machine-learning.png)  
 
-In project 3 I used data from MNIST dataset, a set of data included handwriting digit numbers. The aim pf this project is to predict which sets of array is related to which class. Following steps explained  
+In project 3 I used data from MNIST dataset, a set of data included handwriting digit numbers. The aim pf this project is to predict which sets of array is related to which class. 
+In projcet 4, I analyze data about mobiles and their **price range*. Project 5 is about to sky objects classification. Briefly, all of them are used to classify some lables, following steps are being explained  
 
 - Loading data from MNIST
 - Getting some information about data
