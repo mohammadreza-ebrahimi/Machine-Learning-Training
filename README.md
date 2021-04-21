@@ -38,7 +38,7 @@ is needed. Also in project 2 (supervised, regression, similar to the proj. 1) I 
 ![classification-algorithm-in-machine-learning](classification-algorithm-in-machine-learning.png)  
 
 In project 3 I used data from MNIST dataset, a set of data included handwriting digit numbers. The aim pf this project is to predict which sets of array is related to which class. 
-In projcet 4, I analyze data about mobiles and their **price range*. Project 5 is about to sky objects classification. Briefly, all of them are used to classify some lables, following steps are being explained  
+In projcet 4, I analyze data about mobiles and their **price range**. Project 5 is about to sky objects classification. Briefly, all of them are used to **classify binary or multi-lables**, following steps are being explained  
 
 - Loading data from MNIST
 - Getting some information about data
