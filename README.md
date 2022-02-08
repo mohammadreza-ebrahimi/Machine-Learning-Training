@@ -23,14 +23,13 @@ Where those are subset of supervised learning.
 #### Project 2
 ![hr-versus-runs-regression](hr-versus-runs-regression.png)
 
-In project 1, I used data from USA statistics dataset in order to analysis house data in california and build a model to predict the house value. Following steps 
-is needed. Also in project 2 (supervised, regression, similar to the proj. 1) I have used GDP data for all over the world tho predict the GDP per capita of each country.  
+In project 1, I analyzed house data in California and developed a model to forecast house value using data from the USA statistics dataset. The steps listed below are required. In addition, in project 2 (supervised, regression, similar to project 1), I used GDP data from all across the world to forecast each country's GDP per capita.
 
-- Getting some primary information about data
-- Visualiaing data and see the correlation between features
-- Splitting train set and test set by stratifying them
-- Chooing the best model which is fitted to training data
-- Evaluate cost function for each selected model
+- Obtaining some basic data information
+- Visualizing data and seeing the link between characteristics 
+- Splitting the train set and test set by stratifying them
+- Choosing the best model that fits the training data 
+- Evaluating the cost function for each model that is chosen
 
 #### Project 3  
 #### Project 4
