@@ -47,12 +47,12 @@ In projcet 4, I analyze data about mobiles and their **price range**. Project 5 
 - Training data with **SGD Classifier**
 - Evaluating **Percision** and **Recall** and **F1** for this model.
 
-After above steps, I proceed in multi class model training with following steps  
-- This time, It is not required to fix the tearget due to multi class model training
-- Choosing appropriate model, again SGD classifier, by default it is **OvA**. I also examined **OvO** method.
+After the above steps, I proceed in multi-class model training with the following steps  
+- This time, It is not required to fix the target due to multi-class model training
+- Choosing the appropriate model, again SGD classifier, by default it is **OvA**. I also examined **OvO** method.
 - Test some other models
-- Evaluating **Percision**, **Recall** and **F1**. 
-- Visualizing **Confusion Matrix** in order to analysis errors
+- Evaluating **Precision**, **Recall** and **F1**. 
+- Visualizing **Confusion Matrix** in order to analyze errors
 
 Some important concepts and definitions have been gotten from this [book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) written by ***Aurélien Géron***  
 If you have any question or suggestion please [contact](mailto:m.reza.ebrahimi1995@gmial.com) me. 
